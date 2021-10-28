@@ -1,0 +1,40 @@
+{
+    "app": {
+        "auto_start": true,
+        "date": "2021-10-27T17:36:39.050583",
+        "files": {
+            ".git/hooks/applypatch-msg.sample": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+            ".git/hooks/commit-msg.sample": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437",
+            ".git/hooks/fsmonitor-watchman.sample": "f3c0228d8e827f1c5260ac59fdd92c3d425c46e54711ef713c5a54ae0a4db2b4",
+            ".git/hooks/post-update.sample": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+            ".git/hooks/pre-applypatch.sample": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+            ".git/hooks/pre-commit.sample": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a",
+            ".git/hooks/pre-merge-commit.sample": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53",
+            ".git/hooks/pre-push.sample": "4b1119e1e13a212571976f4aee77847cdbd40978546d6273a557e238981a40d1",
+            ".git/hooks/pre-rebase.sample": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+            ".git/hooks/pre-receive.sample": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+            ".git/hooks/prepare-commit-msg.sample": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+            ".git/hooks/update.sample": "978235ae8b913ab4d0f906a8af621a0bfe7c314d84b715f4f64ee9b1aa3cce2d",
+            ".git/info/exclude": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+            "No_Net_No_WiFi_Two_Radios.py": "44dc069a334eb00c3b93442aa4400469713fb2762a224c2d679243d761639269",
+            "csclient.py": "0c6a55c889daf7df554ab1d22e3290cbb45540a081a62b485036d98ef01e681b",
+            "package.ini": "c54446f61edfaf59f1155363037b2ffc26d3eecdbf1f3fd5b85e69ac8a13c687",
+            "readme.txt": "ac6b252c07a50146499a5c16b39e0815f532a278c28801c3de86fe4acd6ec064",
+            "start.sh": "c3926a04eeffa0ed6221514453fb4b705b66059829aba22bfbee99d71f34c268"
+        },
+        "firmware_major": 7,
+        "firmware_minor": 2,
+        "name": "No_Net_No_WiFi_Two_Radios",
+        "notes": "Application Template for use with SDK 3.0",
+        "reboot": true,
+        "restart": true,
+        "uuid": "8a7f79cb-b11b-44bc-bd33-0f4ab3f06d60",
+        "vendor": "Cradlepoint",
+        "version_major": 1,
+        "version_minor": 0
+    },
+    "pmf": {
+        "version_major": 1,
+        "version_minor": 0
+    }
+}
